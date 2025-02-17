@@ -1,0 +1,25 @@
+<svg width="90" height="22" viewBox="0 0 90 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+	path{animation: growLine 1s ease infinite;}
+
+@keyframes growLine {0%{}50%{}100%{}}
+@keyframes growLine { 0%, 100% {
+    transform: scaleY(1);
+  }
+  50% {
+    transform: scaleY(0.5);
+  }}
+</style>
+<path style="animation-delay: 0.10s;" d="M1 9L1 13" stroke="#00C2FF" stroke-width="2" stroke-linecap="round"/>
+<path style="animation-delay: 0.8s;" d="M9 4L9 18" stroke="#00C2FF" stroke-width="2" stroke-linecap="round"/>
+<path style="animation-delay: 0.6s;" d="M17 4L17 18" stroke="#00C2FF" stroke-width="2" stroke-linecap="round"/>
+<path style="animation-delay: 0.4s;" d="M25 7L25 15" stroke="#00C2FF" stroke-width="2" stroke-linecap="round"/>
+<path style="animation-delay: 0.2s;" d="M33 7L33 15" stroke="#00C2FF" stroke-width="2" stroke-linecap="round"/>
+<path style="animation-delay: 0.0s;" d="M41 1L41 21" stroke="#00C2FF" stroke-width="2" stroke-linecap="round"/>
+<path style="animation-delay: 0.0s;" d="M49 4L49 18" stroke="#00C2FF" stroke-width="2" stroke-linecap="round"/>
+<path style="animation-delay: 0.2s;" d="M57 7L57 15" stroke="#00C2FF" stroke-width="2" stroke-linecap="round"/>
+<path style="animation-delay: 0.4s;" d="M65 4L65 18" stroke="#00C2FF" stroke-width="2" stroke-linecap="round"/>
+<path style="animation-delay: 0.6s;" d="M73 7L73 15" stroke="#00C2FF" stroke-width="2" stroke-linecap="round"/>
+<path style="animation-delay: 0.8s;" d="M81 7L81 15" stroke="#00C2FF" stroke-width="2" stroke-linecap="round"/>
+<path style="animation-delay: 0.10s;" d="M89 8L89 14" stroke="#00C2FF" stroke-width="2" stroke-linecap="round"/>
+</svg>
