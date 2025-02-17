@@ -1,0 +1,91 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url('Montserrat-Regular.eot');
+    src: url('Montserrat-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Montserrat-Regular.woff2') format('woff2'),
+        url('Montserrat-Regular.woff') format('woff'),
+        url('Montserrat-Regular.ttf') format('truetype'),
+        url('Montserrat-Regular.svg#Montserrat-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Zoho Puvi';
+    src: url('ZohoPuvi-Bold.eot');
+    src: url('ZohoPuvi-Bold.eot?#iefix') format('embedded-opentype'),
+        url('ZohoPuvi-Bold.woff2') format('woff2'),
+        url('ZohoPuvi-Bold.woff') format('woff'),
+        url('ZohoPuvi-Bold.ttf') format('truetype'),
+        url('ZohoPuvi-Bold.svg#ZohoPuvi-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('Poppins-SemiBold.eot');
+    src: url('Poppins-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Poppins-SemiBold.woff2') format('woff2'),
+        url('Poppins-SemiBold.woff') format('woff'),
+        url('Poppins-SemiBold.ttf') format('truetype'),
+        url('Poppins-SemiBold.svg#Poppins-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Zoho Puvi';
+    src: url('ZohoPuvi-Extralight.eot');
+    src: url('ZohoPuvi-Extralight.eot?#iefix') format('embedded-opentype'),
+        url('ZohoPuvi-Extralight.woff2') format('woff2'),
+        url('ZohoPuvi-Extralight.woff') format('woff'),
+        url('ZohoPuvi-Extralight.ttf') format('truetype'),
+        url('ZohoPuvi-Extralight.svg#ZohoPuvi-Extralight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Zoho Puvi';
+    src: url('ZohoPuvi-Regular.eot');
+    src: url('ZohoPuvi-Regular.eot?#iefix') format('embedded-opentype'),
+        url('ZohoPuvi-Regular.woff2') format('woff2'),
+        url('ZohoPuvi-Regular.woff') format('woff'),
+        url('ZohoPuvi-Regular.ttf') format('truetype'),
+        url('ZohoPuvi-Regular.svg#ZohoPuvi-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Zoho Puvi';
+    src: url('ZohoPuvi-Medium.eot');
+    src: url('ZohoPuvi-Medium.eot?#iefix') format('embedded-opentype'),
+        url('ZohoPuvi-Medium.woff2') format('woff2'),
+        url('ZohoPuvi-Medium.woff') format('woff'),
+        url('ZohoPuvi-Medium.ttf') format('truetype'),
+        url('ZohoPuvi-Medium.svg#ZohoPuvi-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Zoho Puvi';
+    src: url('ZohoPuvi-Light.eot');
+    src: url('ZohoPuvi-Light.eot?#iefix') format('embedded-opentype'),
+        url('ZohoPuvi-Light.woff2') format('woff2'),
+        url('ZohoPuvi-Light.woff') format('woff'),
+        url('ZohoPuvi-Light.ttf') format('truetype'),
+        url('ZohoPuvi-Light.svg#ZohoPuvi-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
